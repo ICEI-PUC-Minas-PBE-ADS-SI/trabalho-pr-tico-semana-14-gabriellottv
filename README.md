@@ -9,15 +9,16 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Lott Vilela
+- Matricula:891416
+- Proposta de projeto escolhida: Site de noticias
+- Breve descrição sobre seu projeto: Deixar os leitores informados sobre as ultimas noticias do momento
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Implementei os graficos na página de noticias 
 
 <<  COLOQUE A IMAGEM TELA 1 AQUI >>
-
+![alt text](<../Captura de tela 2025-06-06 192005.png>)
 <<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![alt text](<../Captura de tela 2025-06-06 192026.png>)
